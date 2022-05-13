@@ -1,0 +1,51 @@
+#app {
+  font-family: "Montserrat", sans-serif;
+}
+.router-link-exact-active {
+  font-weight: bold;
+}
+.navbar {
+  background-color: #fc7022;
+}
+.container {
+  padding-left: 0px;
+}
+.hero {
+  background-color: #ff5c00;
+}
+.button1 {
+  background-color: #fba600;
+  border-style: none;
+}
+.button2 {
+  background-color: #ff5c00;
+  border-style: none;
+}
+.bestFood {
+  color: #ff5c00;
+}
+.card-product {
+  border-radius: 20px;
+  background-color: #fba600;
+}
+.card-img-top {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.card-img-top-detail {
+  border-radius: 20px;
+  width: 95%;
+}
+.breadcrumb-item.active {
+  font-weight: bold;
+  color: black;
+}
+.nav-item.float-right {
+  margin-left: 720px;
+}
+.card-img-top-detail-keranjang {
+  border-radius: 20px;
+}
+.footer {
+  background-color: #ff5c00;
+}
